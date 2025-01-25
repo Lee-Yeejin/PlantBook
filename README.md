@@ -1,5 +1,6 @@
 # 🌱 PlantBook
-초등 과학 교육용 식물 키우기 시뮬레이션 VR 게임
+ -2024 메타버스 개발자 경진대회 출품작-<br>
+#### 초등 과학 교육용 식물 키우기 시뮬레이션 VR 게임
 <br>
 <br>
 <br>
@@ -35,6 +36,7 @@
 >|IDE|Visual Studio|
 >|Modelling|Blender|
 >|Video|AfterEffect|
+>|VR|Meta Quest|
 <br>
 <br>
 <br>
@@ -75,4 +77,7 @@
 
 ---
 
+#  🏆 메타버스 개발자 경진대회 결과
 
+- 참가 분야 :  **취업 과제 - 과제1 'Meta Quest 및 태블릿에서 활용 가능한 과학 교육용 AR/VR 콘텐츠 개발'** <br>
+- 결과 : (주)로보로보 - **최종 2등**
