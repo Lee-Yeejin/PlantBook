@@ -43,19 +43,36 @@
 <br>
 
 ### 1) 5단계 성장<br>
-<img src="https://github.com/user-attachments/assets/abe83b4f-9cde-48d1-b08f-f707627957e0" width="310" height="410">
+![1](https://github.com/user-attachments/assets/98c21d5d-1df5-4ed6-8b45-5042c45eb6de)
+
+• 각 단계마다 필요로 하는 양의 물을 주고, 해를 쬐어주고, 지지대를 세워주며 1단계부터 5단계까지 식물을 키웁니다. <br>
+• 각 단계의 미션을 성공하면 식물이 다음 단계로 성장합니다.<br>
+
+---
 
 ### 2) 식물 키우기<br>
 ![1](https://github.com/user-attachments/assets/589ff753-5c03-41fe-bb6e-2751c447201c)
 
+<details>
+ <summary> 물 주기 코드 보기 </summary>
+ <img src='https://github.com/user-attachments/assets/5e1aaae7-2873-4a19-ace2-29eff6a0d6d3'>
+</details>
+
+<details>
+ <summary> 햇빛 쬐기 코드 보기 </summary>
+ <img src='https://github.com/user-attachments/assets/a8b07ed3-02bc-4213-b04a-04a8ee8c440b'>
+</details>
+
+---
+
 ### 3) 식물 도감 <br>
 <img src="https://github.com/user-attachments/assets/4502cd44-f9a7-4046-8fae-c9d79bd4d1f0" width="310" height="410">
 
-### 3) 퀴즈 <br>
+---
+
+### 4) 퀴즈 <br>
 <img src="https://github.com/user-attachments/assets/b7abe4f3-2e68-43a7-99b0-f343ccd99c87" width="310" height="410">
 
-### 주요 코드 <br>
-#### 물 주기 코드
-<img src="https://github.com/user-attachments/assets/5e1aaae7-2873-4a19-ace2-29eff6a0d6d3" width="310" height="410">
-2. 
-![1](https://github.com/user-attachments/assets/5e1aaae7-2873-4a19-ace2-29eff6a0d6d3)
+---
+
+
