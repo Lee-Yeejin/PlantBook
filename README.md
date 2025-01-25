@@ -42,4 +42,20 @@
 #  💡 프로젝트 주요 기능
 <br>
 
-### 식물 키우기 - 5단계 성장<br>
+### 1) 5단계 성장<br>
+<img src="https://github.com/user-attachments/assets/abe83b4f-9cde-48d1-b08f-f707627957e0" width="310" height="410">
+
+### 2) 식물 키우기<br>
+![1](https://github.com/user-attachments/assets/589ff753-5c03-41fe-bb6e-2751c447201c)
+
+### 3) 식물 도감 <br>
+<img src="https://github.com/user-attachments/assets/4502cd44-f9a7-4046-8fae-c9d79bd4d1f0" width="310" height="410">
+
+### 3) 퀴즈 <br>
+<img src="https://github.com/user-attachments/assets/b7abe4f3-2e68-43a7-99b0-f343ccd99c87" width="310" height="410">
+
+### 주요 코드 <br>
+#### 물 주기 코드
+<img src="https://github.com/user-attachments/assets/5e1aaae7-2873-4a19-ace2-29eff6a0d6d3" width="310" height="410">
+2. 
+![1](https://github.com/user-attachments/assets/5e1aaae7-2873-4a19-ace2-29eff6a0d6d3)
